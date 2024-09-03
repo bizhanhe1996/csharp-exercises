@@ -1,0 +1,15 @@
+/home/sepehr/Projects/csharp/bin/Debug/net8.0/csharp
+/home/sepehr/Projects/csharp/bin/Debug/net8.0/csharp.deps.json
+/home/sepehr/Projects/csharp/bin/Debug/net8.0/csharp.runtimeconfig.json
+/home/sepehr/Projects/csharp/bin/Debug/net8.0/csharp.dll
+/home/sepehr/Projects/csharp/bin/Debug/net8.0/csharp.pdb
+/home/sepehr/Projects/csharp/obj/Debug/net8.0/csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/sepehr/Projects/csharp/obj/Debug/net8.0/csharp.AssemblyInfoInputs.cache
+/home/sepehr/Projects/csharp/obj/Debug/net8.0/csharp.AssemblyInfo.cs
+/home/sepehr/Projects/csharp/obj/Debug/net8.0/csharp.csproj.CoreCompileInputs.cache
+/home/sepehr/Projects/csharp/obj/Debug/net8.0/csharp.sourcelink.json
+/home/sepehr/Projects/csharp/obj/Debug/net8.0/csharp.dll
+/home/sepehr/Projects/csharp/obj/Debug/net8.0/refint/csharp.dll
+/home/sepehr/Projects/csharp/obj/Debug/net8.0/csharp.pdb
+/home/sepehr/Projects/csharp/obj/Debug/net8.0/csharp.genruntimeconfig.cache
+/home/sepehr/Projects/csharp/obj/Debug/net8.0/ref/csharp.dll
