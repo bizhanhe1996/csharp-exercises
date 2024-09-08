@@ -4,11 +4,9 @@ class Program
 {
     static void Main(string[] args)
     {
-
-        string firstName = "Bizhan";
-        string lastName = "Hejazi";
-        string fullName = firstName + " " + lastName;
-
-        Console.WriteLine(fullName);
+        Exercises exercises = new Exercises();
+        string result = exercises.SwitchExercise("Paris");
+        Console.WriteLine(result);
     }
+
 }
