@@ -6,17 +6,28 @@ class Program
     {
 
         // switch exercise
-        Exercises exercises = new Exercises();
+        /* Exercises exercises = new Exercises();
         string result = exercises.SwitchExercise("Paris");
-        Console.WriteLine(result);
+        Console.WriteLine(result); */
 
         // while exercise
-        exercises.WhileExercise(10, 100);
+        // exercises.WhileExercise(10, 100);
 
         // for exercises
-        string[] names = ["Bizhan", "Sepehr", "Reza"];
-        exercises.ForExercise(names);
+        /* string[] names = ["Bizhan", "Sepehr", "Reza"];
+        exercises.ForExercise(names); */
+
+        // OOP Exercises
+        OOPExercises oOPExercises = new();
+        oOPExercises.AccessorExercise1();
+        oOPExercises.AccessorExercise2();
+        
+        ArrayExercises arrayExercises = new();
+        arrayExercises.PrintFirstElement();
+        arrayExercises.PrintLastElement();
+        arrayExercises.IterateInNames();
 
     }
+
 
 }
