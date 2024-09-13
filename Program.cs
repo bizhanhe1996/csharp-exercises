@@ -21,11 +21,16 @@ class Program
         OOPExercises oOPExercises = new();
         oOPExercises.AccessorExercise1();
         oOPExercises.AccessorExercise2();
-        
+
         ArrayExercises arrayExercises = new();
         arrayExercises.PrintFirstElement();
         arrayExercises.PrintLastElement();
         arrayExercises.IterateInNames();
+        arrayExercises.TwoDimensionalArrayExercise();
+        arrayExercises.JaggedArrayExercise();
+        arrayExercises.PrintMinOfArray();
+        arrayExercises.PrintMaxOfArray();
+        arrayExercises.PrintLengthOfArray();
 
     }
 
