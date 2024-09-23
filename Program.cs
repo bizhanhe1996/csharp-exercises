@@ -18,19 +18,34 @@ class Program
         exercises.ForExercise(names); */
 
         // OOP Exercises
-        OOPExercises oOPExercises = new();
-        oOPExercises.AccessorExercise1();
-        oOPExercises.AccessorExercise2();
+        // OOPExercises oOPExercises = new();
+        // oOPExercises.AccessorExercise1();
+        // oOPExercises.AccessorExercise2();
 
-        ArrayExercises arrayExercises = new();
-        arrayExercises.PrintFirstElement();
-        arrayExercises.PrintLastElement();
-        arrayExercises.IterateInNames();
-        arrayExercises.TwoDimensionalArrayExercise();
-        arrayExercises.JaggedArrayExercise();
-        arrayExercises.PrintMinOfArray();
-        arrayExercises.PrintMaxOfArray();
-        arrayExercises.PrintLengthOfArray();
+        // Les Exercises du Arrays
+        // ArrayExercises arrayExercises = new();
+        // arrayExercises.PrintFirstElement();
+        // arrayExercises.PrintLastElement();
+        // arrayExercises.IterateInNames();
+        // arrayExercises.TwoDimensionalArrayExercise();
+        // arrayExercises.JaggedArrayExercise();
+        // arrayExercises.PrintMinOfArray();
+        // arrayExercises.PrintMaxOfArray();
+        // arrayExercises.PrintLengthOfArray();
+
+        // List exercises
+        ListExercises listExercises = new();
+        listExercises.Fill();
+        listExercises.PrintFirstElement();
+        listExercises.PrintLastElement();
+        listExercises.PrintMinElement();
+        listExercises.PrintMaxElement();
+        listExercises.ReverseList();
+        listExercises.PrintFirstElement();
+        listExercises.PrintLength();
+        listExercises.ConvertToEvens();
+        listExercises.PrintFirstElement();
+        listExercises.PrintAverage();
 
     }
 
